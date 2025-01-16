@@ -1,10 +1,37 @@
-- 👋 Hi, I’m Bo Cheng
-- 👀 I’m interested in crop modeling, remote sensing, and machine learning...
-- 🌱 I’m currently learning C++, python and R...
-- 💞️ I’m looking to collaborate on crop modeling...
-- 📫 How to reach me ...
+# Hi there, I'm Chengbo! 👋
 
-<!---
-chengbo2021/chengbo2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a research assistant at Auburn University with a passion for web development, data science, and software engineering. I enjoy working on innovative projects and constantly learning new technologies to improve my skills.
+
+## 🛠️ Technologies & Tools
+- **Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Jupyter, VS Code
+
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques
+- Cloud Computing (AWS, Azure)
+
+## 💼 Professional Experience
+- **Research Assistant** at Auburn University
+  - Conducted research in [your research area]
+  - Developed and maintained software tools to support research activities
+  - Collaborated with faculty members and other researchers on various projects
+- **Software Engineer** 
+  - Developed and maintained web applications using React and Node.js
+  - Implemented RESTful APIs and integrated third-party services
+  - Collaborated with cross-functional teams to deliver high-quality software
+- **Data Scientist** 
+  - Analyzed large datasets to provide actionable insights
+  - Built predictive models to improve business decisions
+
+## 📈 GitHub Stats
+![Chengbo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chengbo2021&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- Email: chengbo2021@gmail.com
+
+⭐️ From [chengbo2021](https://github.com/chengbo2021)
+```
